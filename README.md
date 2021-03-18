@@ -8,3 +8,5 @@ The repositoy contains 2 notebooks
 * PyTorchLightning_LSTM.ipynb: Workflow of PyTorchLightning applied to a simple LSTM
 
 The dataset used is from https://www.kaggle.com/uciml/electric-power-consumption-data-set and the notebook has been inspired by https://www.kaggle.com/tartakovsky/pytorch-lightning-lstm-timeseries-clean-code
+
+The purpose of this exercise is not to find the bet model, but to get familiar with the workflow of PyTorchLightning.
